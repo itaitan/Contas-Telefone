@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Interface_linhas_de_telefone
+</name>
+</assembly>
+<members>
+<member name="T:Interface_linhas_de_telefone.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources._25_04_Comenrcial001_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources._25_04_Comenrcial001_1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources._60491202_2589752344386417_5891220036479090688_n">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources._EXIT">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.aPrancheta_1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.Comercial_Esperanca">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.comercialesperanca">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.comercialesperanca1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.icons8_ajuda_100">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.icons8_ajuda_30">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.icons8_ajuda_45">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.icons8_help_50">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.icons8_help_96">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.images">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.instaPrancheta_1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.Logo_Comercial_ico">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.Market">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Interface_linhas_de_telefone.My.Resources.Resources.Market1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
